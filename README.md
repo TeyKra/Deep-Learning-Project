@@ -1,4 +1,4 @@
-# Project_Deep_Learning_M1
+# Deep_Learning_M1_Project
 
 # Deep Learning on Image Data
 
